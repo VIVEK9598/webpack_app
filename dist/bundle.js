@@ -162,7 +162,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var jque
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("let persons = [\r\n    { name: \"vivek\" },\r\n    { name: \"Prakash\" },\r\n    { name: \"Gautam..\" }\r\n]\r\nmodule.exports = persons\r\n\n\n//# sourceURL=webpack:///./src/js/test.js?");
+eval("let persons = [\r\n    { name: \"vivek\" },\r\n    { name: \"Prakash\" },\r\n    { name: \"Gautam....\" }\r\n]\r\nmodule.exports = persons\r\n\n\n//# sourceURL=webpack:///./src/js/test.js?");
 
 /***/ })
 

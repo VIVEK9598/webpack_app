@@ -1,6 +1,6 @@
 let persons = [
     { name: "vivek" },
     { name: "Prakash" },
-    { name: "Gautam.." }
+    { name: "Gautam...." }
 ]
 module.exports = persons
